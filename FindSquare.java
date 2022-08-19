@@ -6,6 +6,7 @@ public static void main(String[]args) {
 	int cube = num*num*num;
 System.out.println(cube);
 System.out.println(squareOf);
+System.out.println(cube);
 	
 }
 
